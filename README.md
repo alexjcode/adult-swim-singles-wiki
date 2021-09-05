@@ -69,7 +69,7 @@
 
 </details>
 
-[Stream](https://www.adultswim.com/music/singles-2012)<br>[Download Adult Swim Singles 2012 (ZIP)](http://www.adultswim.com/music/singles-2012/adult_swim_singles_program_2012.zip)
+[Stream](https://www.adultswim.com/music/singles-2012)<br>[Download Adult Swim Singles 2012 (ZIP)](http://www.adultswim.com/music/singles-2012/adult_swim_singles_program_2012.zip) [Alt Link (ZIP)](http://www.adultswim.com/music/singles-2012/adult_swim_singles_program_2012.zip)
 
 <br />
 
