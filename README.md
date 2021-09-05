@@ -7,7 +7,7 @@
 
 \# | Art | Track | Artist | Duration | Link
 ------------ | ------------ | ------------- | ------------- | ------------- | -------------
-1 |  | Love in the Hot Afternoon | Matt Sweeney and Bonnie 'Prince' Billy | 4:06 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Love_in_the_Hot_Afternoon.mp3)
+1 | <img src="https://i.cdn.turner.com/adultswim/big/img/2017/08/03/Singles_MusicPage_Thumbnail.jpg" height=30 style="display: block; margin: 0 auto;"> | Love in the Hot Afternoon | Matt Sweeney and Bonnie 'Prince' Billy | 4:06 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Love_in_the_Hot_Afternoon.mp3)
 2 |  | Papermill | Madvillain | 1:45 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Papermill.mp3)
 3 |  | Swimming | Mike Bigga (aka Killer Mike) prod. by Flying Lotus | 4:01 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Swimming.mp3)
 4 |  | You and I | Washed Out feat. Caroline Polachek | 5:08 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/You_and_I.mp3)
