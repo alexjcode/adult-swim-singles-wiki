@@ -1,5 +1,8 @@
 # Adult Swim Singles - The Index
 
+Adult Swim curates and releases free music every year though their *Adult Swim Singles Program* and Williams Street Records. Each year of free music is confined to its own web page with colorful psychedelic animations, but it can be a bit cumbersome to scroll through each one and look at them all as a whole. This page indexes every song released as an Adult Swim Single since 2010 and compiles all the \*official\* streaming and download links. Download links are not provided for streaming only tracks.
+
+<br />
 
 ## <img src="https://img.discogs.com/HN0ZTTaZxp5OxKEBy1PlQZTfz74=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369283-1282474595.jpeg.jpg" height=180><br />2010
 <details>
