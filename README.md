@@ -404,7 +404,7 @@ Bonus Tracks
 
 <br />
 
-## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=180><br />2021
+## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=180><br />2021 (Ongoing)
 <details>
 <summary>Track List</summary>
 
