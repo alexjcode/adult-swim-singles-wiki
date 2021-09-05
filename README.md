@@ -1,24 +1,27 @@
-## <img src="https://img.discogs.com/HN0ZTTaZxp5OxKEBy1PlQZTfz74=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369283-1282474595.jpeg.jpg" height=18> 2010
+# Adult Swim Singles
+
+## <img src="https://img.discogs.com/HN0ZTTaZxp5OxKEBy1PlQZTfz74=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369283-1282474595.jpeg.jpg" height=180> 2010
 <details>
 <summary>Track List</summary>
 
 \# | Art | Track | Artist | Duration | Link
 ------------ | ------------ | ------------- | ------------- | ------------- | -------------
-1 | x | Love in the Hot Afternoon | Matt Sweeney and Bonnie 'Prince' Billy | 4:06 | --
-2 | x | Papermill | Madvillain | 1:45 | --
-3 | x | Swimming | Mike Bigga (aka Killer Mike) prod. by Flying Lotus | 4:01 | --
-4 | x | You and I | Washed Out feat. Caroline Polachek | 5:08 | --
-5 | x | Before You Judge Me | Black Lips | 2:59 | --
-6 | x | Speak in Tongues | High On Fire | 5:47 | --
-7 | x | Drunk Girls (Holy Ghost! Adult Swim Remix) | LCD Soundsystem | 4:18 | --
-8 | x | Oh My God | Cults | 3:21 | --
-9 | x | On One | Freddie Gibbs | 2:34 | --
+1 |  | Love in the Hot Afternoon | Matt Sweeney and Bonnie 'Prince' Billy | 4:06 | --
+2 |  | Papermill | Madvillain | 1:45 | --
+3 |  | Swimming | Mike Bigga (aka Killer Mike) prod. by Flying Lotus | 4:01 | --
+4 |  | You and I | Washed Out feat. Caroline Polachek | 5:08 | --
+5 |  | Before You Judge Me | Black Lips | 2:59 | --
+6 |  | Speak in Tongues | High On Fire | 5:47 | --
+7 |  | Drunk Girls (Holy Ghost! Adult Swim Remix) | LCD Soundsystem | 4:18 | --
+8 |  | Oh My God | Cults | 3:21 | --
+9 |  | On One | Freddie Gibbs | 2:34 | --
 
 </details>
 
 [Download Adult Swim Singles 2010 (ZIP)](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/adultswimsingles.zip)
 
-## <img src="https://i.cdn.turner.com/adultswim/music/tools/img/albums/adult-swim-singles-2011-album-cover.jpg" height=18> 2011
+
+## <img src="https://i.cdn.turner.com/adultswim/music/tools/img/albums/adult-swim-singles-2011-album-cover.jpg" height=180> 2011
 <details>
 <summary>Track List</summary>
 
@@ -40,7 +43,7 @@
 
 [Download Adult Swim Singles 2011 (ZIP)](https://www.adultswim.com/music/singles-2011/adult_swim_singles_2011.zip)
 
-## <img src="https://i.cdn.turner.com/adultswim/music/tools/img/albums/adult-swim-singles-2012-nospon-album-cover.jpg" height=18> 2012
+## <img src="https://i.cdn.turner.com/adultswim/music/tools/img/albums/adult-swim-singles-2012-nospon-album-cover.jpg" height=180> 2012
 <details>
 <summary>Track List</summary>
 
@@ -64,7 +67,7 @@
 
 [Download Adult Swim Singles 2012 (ZIP)](http://www.adultswim.com/music/singles-2012/adult_swim_singles_program_2012.zip)
 
-## <img src="https://img.discogs.com/88hZY-p7rFLT3K0xMsi6Vg0ciN4=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5957796-1436142304-4372.jpeg.jpg" height=18> 2013
+## <img src="https://img.discogs.com/88hZY-p7rFLT3K0xMsi6Vg0ciN4=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5957796-1436142304-4372.jpeg.jpg" height=180> 2013
 <details>
 <summary>Track List</summary>
 
@@ -92,7 +95,7 @@
 
 [Download Missing Track (MP3)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/Barbie_Jeep_prod_Hot_Sugar.mp3)
 
-## <img src="https://i1.sndcdn.com/artworks-000082564104-cf6ohl-t500x500.jpg" height=18> 2014
+## <img src="https://i1.sndcdn.com/artworks-000082564104-cf6ohl-t500x500.jpg" height=180> 2014
 <details>
 <summary>Track List</summary>
 
@@ -119,7 +122,7 @@
 
 [Download Adult Swim Singles 2014 (ZIP)](https://i.cdn.turner.com/adultswim/big/promos/201406_singles/2014_adult_swim_singles.zip)
 
-## <img src="https://i.cdn.turner.com/adultswim/big/img/2015/06/08/Singles2015_MusicPage_Thumbnail.jpg" height=18> 2015
+## <img src="https://i.cdn.turner.com/adultswim/big/img/2015/06/08/Singles2015_MusicPage_Thumbnail.jpg" height=180> 2015
 <details>
 <summary>Track List</summary>
 
@@ -153,7 +156,7 @@ Bonus Tracks
 
 [Download Adult Swim Singles 2015 (ZIP)](http://z.cdn.turner.com/adultswim/big/music/singles-2015/adult-swim-singles-2015.zip)
 
-## <img src="https://i.cdn.turner.com/adultswim/big/img/2016/05/23/Singles2016_MusicPage_Thumbnail.jpg" height=18> 2016
+## <img src="https://i.cdn.turner.com/adultswim/big/img/2016/05/23/Singles2016_MusicPage_Thumbnail.jpg" height=180> 2016
 <details>
 <summary>Track List</summary>
 
@@ -197,7 +200,7 @@ Bonus Tracks
 
 [Download Missing Track (MP3)](https://s3.amazonaws.com/as-singles-2016-mp3s/earlsweatshirt_balance.mp3)
 
-## <img src="https://i.cdn.turner.com/adultswim/big/img/2017/08/03/Singles_MusicPage_Thumbnail.jpg" height=18> 2017
+## <img src="https://i.cdn.turner.com/adultswim/big/img/2017/08/03/Singles_MusicPage_Thumbnail.jpg" height=180> 2017
 <details>
 <summary>Track List</summary>
 
@@ -269,7 +272,7 @@ Bonus Tracks
 
 [Stream Adult Swim Singles 2017]()
 
-## <img src="https://i.cdn.turner.com/adultswim/big/img/2018/09/19/Singles_MusicPage_Thumbnail_1.jpg" height=18> 2018-2019
+## <img src="https://i.cdn.turner.com/adultswim/big/img/2018/09/19/Singles_MusicPage_Thumbnail_1.jpg" height=180> 2018-2019
 <details>
 <summary>Track List</summary>
 
@@ -332,7 +335,7 @@ Bonus Tracks
 
 [Stream Adult Swim Singles 2018-2019]()
 
-## <img src="https://media.cdn.adultswim.com/uploads/20200522/20522168569-AS_Singles2020_MusicPage_Thumbnail.jpg" height=18> 2019-2020
+## <img src="https://media.cdn.adultswim.com/uploads/20200522/20522168569-AS_Singles2020_MusicPage_Thumbnail.jpg" height=180> 2019-2020
 <details>
 <summary>Track List</summary>
 
@@ -386,7 +389,7 @@ Bonus Tracks
 
 [Stream Adult Swim Singles 2019-2020]()
 
-## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=18> 2021
+## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=180> 2021
 <details>
 <summary>Track List</summary>
 
