@@ -18,7 +18,7 @@
 
 </details>
 
-[Download Adult Swim Singles 2010 (ZIP)](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/adultswimsingles.zip)
+[Stream (Broken Page)](https://web.archive.org/web/20110628232150/http://www.adultswim.com/promos/201005_kia/index.html)<br>[Download Adult Swim Singles 2010 (ZIP)](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/adultswimsingles.zip)
 
 <br />
 
@@ -42,7 +42,7 @@
 
 </details>
 
-[Download Adult Swim Singles 2011 (ZIP)](https://www.adultswim.com/music/singles-2011/adult_swim_singles_2011.zip)
+[Stream](https://www.adultswim.com/music/singles-2011)<br>[Download Adult Swim Singles 2011 (ZIP)](https://www.adultswim.com/music/singles-2011/adult_swim_singles_2011.zip)
 
 <br />
 
@@ -68,7 +68,7 @@
 
 </details>
 
-[Download Adult Swim Singles 2012 (ZIP)](http://www.adultswim.com/music/singles-2012/adult_swim_singles_program_2012.zip)
+[Stream](https://www.adultswim.com/music/singles-2012)<br>[Download Adult Swim Singles 2012 (ZIP)](http://www.adultswim.com/music/singles-2012/adult_swim_singles_program_2012.zip)
 
 <br />
 
@@ -96,7 +96,7 @@
 
 </details>
 
-[Download Adult Swim Singles 2013 (ZIP)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/2013_adult_swim_singles.zip)<br>[Download Missing Track (MP3)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/Barbie_Jeep_prod_Hot_Sugar.mp3)
+[Stream](https://www.adultswim.com/music/singles-2013)<br>[Download Adult Swim Singles 2013 (ZIP)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/2013_adult_swim_singles.zip)<br>[Download Missing Track (MP3)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/Barbie_Jeep_prod_Hot_Sugar.mp3)
 
 <br />
 
@@ -125,7 +125,7 @@
 
 </details>
 
-[Download Adult Swim Singles 2014 (ZIP)](https://i.cdn.turner.com/adultswim/big/promos/201406_singles/2014_adult_swim_singles.zip)
+[Stream](https://www.adultswim.com/music/singles-2014)<br>[Download Adult Swim Singles 2014 (ZIP)](https://i.cdn.turner.com/adultswim/big/promos/201406_singles/2014_adult_swim_singles.zip)
 
 <br />
 
@@ -161,7 +161,7 @@ Bonus Tracks
 
 </details>
 
-[Download Adult Swim Singles 2015 (ZIP)](http://z.cdn.turner.com/adultswim/big/music/singles-2015/adult-swim-singles-2015.zip)
+[Stream (Broken Page)](https://www.adultswim.com/music/singles-2015)<br>[Download Adult Swim Singles 2015 (ZIP)](http://z.cdn.turner.com/adultswim/big/music/singles-2015/adult-swim-singles-2015.zip)
 
 <br />
 
@@ -205,7 +205,7 @@ Bonus Tracks
 
 </details>
 
-[Download Adult Swim Singles 2016 (ZIP)](http://pmd.cdn.turner.com/adultswim/big/music/singles-2016/assets/downloads/AdultSwim-Singles16.zip)<br>[Download Missing Track (MP3)](https://s3.amazonaws.com/as-singles-2016-mp3s/earlsweatshirt_balance.mp3)
+[Stream](https://www.adultswim.com/music/singles-2016)<br>[Download Adult Swim Singles 2016 (ZIP)](http://pmd.cdn.turner.com/adultswim/big/music/singles-2016/assets/downloads/AdultSwim-Singles16.zip)<br>[Download Missing Track (MP3)](https://s3.amazonaws.com/as-singles-2016-mp3s/earlsweatshirt_balance.mp3)
 
 <br />
 
@@ -279,7 +279,7 @@ Bonus Tracks
 
 </details>
 
-[Stream Adult Swim Singles 2017]()
+[Stream Adult Swim Singles 2017](https://www.adultswim.com/music/singles-2017)
 
 <br />
 
@@ -344,7 +344,7 @@ Bonus Tracks
 
 </details>
 
-[Stream Adult Swim Singles 2018-2019]()
+[Stream Adult Swim Singles 2018-2019](https://www.adultswim.com/music/singles-2018)
 
 <br />
 
@@ -400,7 +400,7 @@ Bonus Tracks
 
 </details>
 
-[Stream Adult Swim Singles 2019-2020]()
+[Stream Adult Swim Singles 2019-2020](https://www.adultswim.com/music/singles-2019)
 
 <br />
 
@@ -432,4 +432,4 @@ Bonus Tracks
 
 </details>
 
-[Stream Adult Swim Singles 2021]()
+[Stream Adult Swim Singles 2021](https://www.adultswim.com/music/singles-2021)
