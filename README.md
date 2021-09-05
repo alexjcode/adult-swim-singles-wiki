@@ -1,4 +1,5 @@
-# Adult Swim Singles
+# Adult Swim Singles - The Index
+
 
 ## <img src="https://img.discogs.com/HN0ZTTaZxp5OxKEBy1PlQZTfz74=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369283-1282474595.jpeg.jpg" height=180><br />2010
 <details>
@@ -6,15 +7,15 @@
 
 \# | Art | Track | Artist | Duration | Link
 ------------ | ------------ | ------------- | ------------- | ------------- | -------------
-1 |  | Love in the Hot Afternoon | Matt Sweeney and Bonnie 'Prince' Billy | 4:06 | --
-2 |  | Papermill | Madvillain | 1:45 | --
-3 |  | Swimming | Mike Bigga (aka Killer Mike) prod. by Flying Lotus | 4:01 | --
-4 |  | You and I | Washed Out feat. Caroline Polachek | 5:08 | --
-5 |  | Before You Judge Me | Black Lips | 2:59 | --
-6 |  | Speak in Tongues | High On Fire | 5:47 | --
-7 |  | Drunk Girls (Holy Ghost! Adult Swim Remix) | LCD Soundsystem | 4:18 | --
-8 |  | Oh My God | Cults | 3:21 | --
-9 |  | On One | Freddie Gibbs | 2:34 | --
+1 |  | Love in the Hot Afternoon | Matt Sweeney and Bonnie 'Prince' Billy | 4:06 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Love_in_the_Hot_Afternoon.mp3)
+2 |  | Papermill | Madvillain | 1:45 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/)
+3 |  | Swimming | Mike Bigga (aka Killer Mike) prod. by Flying Lotus | 4:01 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Swimming.mp3)
+4 |  | You and I | Washed Out feat. Caroline Polachek | 5:08 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/You_and_I.mp3)
+5 |  | Before You Judge Me | Black Lips | 2:59 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Before_You_Judge_Me.mp3)
+6 |  | Speak in Tongues | High On Fire | 5:47 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Speak_in_Tongues.mp3)
+7 |  | Drunk Girls (Holy Ghost! Adult Swim Remix) | LCD Soundsystem | 4:18 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Drunk_Girls_(Holy_Ghost!_Adult_Swim_Remix).mp3)
+8 |  | Oh My God | Cults | 3:21 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Oh_My_God.mp3)
+9 |  | On One | Freddie Gibbs | 2:34 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/On_One.mp3)
 
 </details>
 
