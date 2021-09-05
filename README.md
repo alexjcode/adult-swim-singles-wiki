@@ -96,9 +96,7 @@
 
 </details>
 
-[Download Adult Swim Singles 2013 (ZIP)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/2013_adult_swim_singles.zip)
-
-[Download Missing Track (MP3)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/Barbie_Jeep_prod_Hot_Sugar.mp3)
+[Download Adult Swim Singles 2013 (ZIP)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/2013_adult_swim_singles.zip)<br>[Download Missing Track (MP3)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/Barbie_Jeep_prod_Hot_Sugar.mp3)
 
 <br />
 
@@ -207,9 +205,7 @@ Bonus Tracks
 
 </details>
 
-[Download Adult Swim Singles 2016 (ZIP)](http://pmd.cdn.turner.com/adultswim/big/music/singles-2016/assets/downloads/AdultSwim-Singles16.zip)
-
-[Download Missing Track (MP3)](https://s3.amazonaws.com/as-singles-2016-mp3s/earlsweatshirt_balance.mp3)
+[Download Adult Swim Singles 2016 (ZIP)](http://pmd.cdn.turner.com/adultswim/big/music/singles-2016/assets/downloads/AdultSwim-Singles16.zip)<br>[Download Missing Track (MP3)](https://s3.amazonaws.com/as-singles-2016-mp3s/earlsweatshirt_balance.mp3)
 
 <br />
 
