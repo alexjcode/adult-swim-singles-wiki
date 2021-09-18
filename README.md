@@ -165,7 +165,7 @@ Bonus Tracks
 
 </details>
 
-[Stream (Broken Page)](https://www.adultswim.com/music/singles-2015)<br>[Download Adult Swim Singles 2015 (ZIP)](http://z.cdn.turner.com/adultswim/big/music/singles-2015/adult-swim-singles-2015.zip)
+[Stream (Broken Page)](https://www.adultswim.com/music/singles-2015)<br>[Download Adult Swim Singles 2015 (ZIP - Archived)](https://web.archive.org/web/20180806012843/pmd.cdn.turner.com/adultswim/big/music/singles-2015/adult-swim-singles-2015.zip)
 
 <br />
 
