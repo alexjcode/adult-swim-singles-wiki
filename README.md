@@ -10,7 +10,7 @@ Adult Swim curates and releases free music every year though their *Adult Swim S
 
 \# | Art | Track | Artist | Duration | Link
 ------------ | ------------ | ------------- | ------------- | ------------- | -------------
-1 | <img src="https://i.cdn.turner.com/adultswim/big/img/2017/08/03/Singles_MusicPage_Thumbnail.jpg" height=30 style="display: block; margin: 0 auto;"> | Love in the Hot Afternoon | Matt Sweeney and Bonnie 'Prince' Billy | 4:06 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Love_in_the_Hot_Afternoon.mp3)
+1 | <img src="https://img.discogs.com/sQfl1QkTX9WJiLlYPxr2JvW5U9o=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5431458-1393186322-6300.png.jpg" height=30 style="display: block; margin: 0 auto; padding: 0;"> | Love in the Hot Afternoon | Matt Sweeney and Bonnie 'Prince' Billy | 4:06 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Love_in_the_Hot_Afternoon.mp3)
 2 |  | Papermill | Madvillain | 1:45 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Papermill.mp3)
 3 |  | Swimming | Mike Bigga (aka Killer Mike) prod. by Flying Lotus | 4:01 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/Swimming.mp3)
 4 |  | You and I | Washed Out feat. Caroline Polachek | 5:08 | [DL](http://ht.cdn.turner.com/adultswim/big/promos/kiasingles/You_and_I.mp3)
@@ -26,7 +26,7 @@ Adult Swim curates and releases free music every year though their *Adult Swim S
 
 <br />
 
-## <img src="https://i.cdn.turner.com/adultswim/music/tools/img/albums/adult-swim-singles-2011-album-cover.jpg" height=180><br />2011
+## <img src="https://images.genius.com/9c77d3c939364fc140bb6451561913bd.240x240x1.jpg" height=180><br />2011
 <details>
 <summary>Track List</summary>
 
@@ -433,6 +433,12 @@ Bonus Tracks
 17 |  | miniskirt | CHAI | 2:38 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-17)
 18 |  | d d don't (premaster) | Kate NV | 3:43 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-18)
 19 |  | I'm Numbers | Emily Wells | 4:38 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-19)
+20  |  |  |  |  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-20)
+21  |  |  |  |  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-21)
+22  |  |  |  |  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-22)
+23  |  |  |  |  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-23)
+24  |  |  |  |  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-24)
+25  |  |  |  |  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-25)
 
 </details>
 
