@@ -100,7 +100,7 @@ Adult Swim curates and releases free music every year though their *Adult Swim S
 
 </details>
 
-[Stream](https://www.adultswim.com/music/singles-2013)<br>[Download Adult Swim Singles 2013 (ZIP)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/2013_adult_swim_singles.zip)<br>[Download Missing Track (MP3)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/Barbie_Jeep_prod_Hot_Sugar.mp3)
+[Stream](https://www.adultswim.com/music/singles-2013)<br>[Download Adult Swim Singles 2013 (ZIP - Archived)](https://web.archive.org/web/20140814115751/http://ht.cdn.turner.com/adultswim/big/music/singles-2013/2013_adult_swim_singles.zip)<br>[Download Missing Track (MP3)](http://ht.cdn.turner.com/adultswim/big/music/singles-2013/Barbie_Jeep_prod_Hot_Sugar.mp3)
 
 <br />
 
@@ -129,7 +129,7 @@ Adult Swim curates and releases free music every year though their *Adult Swim S
 
 </details>
 
-[Stream](https://www.adultswim.com/music/singles-2014)<br>[Download Adult Swim Singles 2014 (ZIP)](https://i.cdn.turner.com/adultswim/big/promos/201406_singles/2014_adult_swim_singles.zip)
+[Stream](https://www.adultswim.com/music/singles-2014)<br>[Download Adult Swim Singles 2014 (ZIP - Archived)](https://web.archive.org/web/20160618073151/http://i.cdn.turner.com/adultswim/big/promos/201406_singles/2014_adult_swim_singles.zip)
 
 <br />
 
