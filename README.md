@@ -148,7 +148,7 @@ Adult Swim curates and releases free music every year though their *Adult Swim S
 7 |  | Bodyline (feat. Nick Zinner) | Peaches | 2:35 | --
 8 |  | Eyehatethou | Thou | 4:42 | --
 9 |  | Worth It | Danny Brown + Clams Casino | 2:47 | --
-10 |  | The Mystery of Lonnie the Døn | Shabazz Palaces | 2:51 | --
+10 |  | The Mystery of Lonnie the Døn | Shabazz Palaces | 2:51 | [DL](https://web.archive.org/web/20201108103453/http://z.cdn.turner.com/adultswim/big/music/singles-2015/shabazz-palaces.m4a)
 11 |  | Eye of the Needle (Bounce Remix feat. Big Freedia) | Sia | 3:10 | --
 12 |  | Squad Out! feat. Fatman Scoop | Skrillex and Jauz | 4:07 | --
 13 |  | Cast The First Stone | Slayer | 3:43 | --
