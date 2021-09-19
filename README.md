@@ -209,7 +209,7 @@ Bonus Tracks
 
 </details>
 
-[Stream](https://www.adultswim.com/music/singles-2016)<br>[Download Adult Swim Singles 2016 (ZIP)](http://pmd.cdn.turner.com/adultswim/big/music/singles-2016/assets/downloads/AdultSwim-Singles16.zip)<br>[Download Missing Track (MP3)](https://s3.amazonaws.com/as-singles-2016-mp3s/earlsweatshirt_balance.mp3)
+[Stream](https://www.adultswim.com/music/singles-2016)<br>[Download Adult Swim Singles 2016 (ZIP - Archived)](https://web.archive.org/web/20180806014453/pmd.cdn.turner.com/adultswim/big/music/singles-2016/assets/downloads/AdultSwim-Singles16.zip)<br>[Download Missing Track (MP3)](https://s3.amazonaws.com/as-singles-2016-mp3s/earlsweatshirt_balance.mp3)
 
 <br />
 <!-- https://web.archive.org/web/20171012143041if_/http://i.cdn.turner.com/adultswim/big/img/2017/08/03/Singles_MusicPage_Thumbnail.jpg -->
