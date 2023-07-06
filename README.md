@@ -110,7 +110,7 @@ Adult Swim curates and releases free music every year though their *Adult Swim S
 
 \# | Art | Track | Artist | Duration | Link
 ------------ | ------------ | ------------- | ------------- | ------------- | -------------
-1 |  | Giorgio's Theme | Giorgio Moroder | 7:40 | --
+1 |  | Giorgio's Theme | Giorgio Moroder | 7:40 | [Video](https://web.archive.org/web/20200708063320/https://pmd.cdn.turner.com/adultswim/big/promos/201406_singles/week_01_vid_interview.mp4)
 2 |  | Want Me | Machinedrum | 3:28 | --
 3 |  | Dust | Destruction Unit | 2:57 | --
 4 |  | Star-Spangled | Fatima Al Qadiri | 5:08 | --
@@ -120,7 +120,7 @@ Adult Swim curates and releases free music every year though their *Adult Swim S
 8 |  | Coupe | Future | 3:09 | --
 9 |  | Spooners | Diarrhea Planet | 3:17 | --
 10 |  | Drug Reference | Oozing Wound | 4:20 | --
-11 |  | Cosplay | Captain Murphy | 2:43 | --
+11 |  | Cosplay | Captain Murphy | 2:43 | [Video](https://web.archive.org/web/20200708024429/https://pmd.cdn.turner.com/adultswim/big/promos/201406_singles/week_11_vid_captain_murphy.mp4)
 12 |  | From the Kettle Onto the Coil | Deafheaven | 6:37 | --
 13 |  | RP Technic | RP Boo | 3:50 | --
 14 |  | Atlanta | Mastodon | 3:25 | --
