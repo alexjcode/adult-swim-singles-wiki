@@ -136,7 +136,7 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 <br />
 
-## <img src="https://i.cdn.turner.com/adultswim/big/img/2015/06/08/Singles2015_MusicPage_Thumbnail.jpg" height=180><img src="https://images.fastcompany.net/image/upload/fc/3060053-inline-i-1-2015-as-mp.png" height=180><br />2015
+## <img src="https://i.cdn.turner.com/adultswim/big/img/2015/06/08/Singles2015_MusicPage_Thumbnail.jpg" height=180><img src="https://images.squarespace-cdn.com/content/v1/5ca520ff8dfc8c4a30f418d0/1557167037395-92RH46KJAZU6YWBPC6RT/01a_Si_009.png?format=2500w" height=180><br />2015
 <details>
 <summary>Track List</summary>
 
