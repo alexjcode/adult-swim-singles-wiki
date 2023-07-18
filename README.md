@@ -1,10 +1,10 @@
-# The Adult Swim Singles Program (2010-2021)
+# The Adult Swim Singles Program
 
 Adult Swim curates and released free music for over a decade though *Adult Swim Singles* and Williams Street Records. Each year of free music was confined to its own web page with colorful psychedelic animations, but it can be a bit cumbersome to scroll through each one for track info. This page indexes every song released as an Adult Swim Single since 2010.
 
 <br />
 
-## <img src="https://img.discogs.com/HN0ZTTaZxp5OxKEBy1PlQZTfz74=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369283-1282474595.jpeg.jpg" height=180><br />2010
+## <img src="https://img.discogs.com/HN0ZTTaZxp5OxKEBy1PlQZTfz74=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369283-1282474595.jpeg.jpg" height=180><img src="https://i.imgur.com/owsiAgT.png" height=180><br />2010
 <details>
 <summary>Track List</summary>
 
@@ -22,11 +22,11 @@ Adult Swim curates and released free music for over a decade though *Adult Swim 
 
 </details>
 
-[Website - Adult Swim Singles 2010 (Requires Adobe Flash)](http://web.archive.org/web/20121016022210/http://video.adultswim.com/promotions/201005_kia/index.html)
+[2010 Website (Requires Adobe Flash)](http://web.archive.org/web/20121016022210/http://video.adultswim.com/promotions/201005_kia/index.html)
 
 <br />
 
-## <img src="https://images.genius.com/9c77d3c939364fc140bb6451561913bd.240x240x1.jpg" height=180><br />2011
+## <img src="https://images.genius.com/9c77d3c939364fc140bb6451561913bd.240x240x1.jpg" height=180><img src="https://i.imgur.com/en8GMsi.png" height=180><br />2011
 <details>
 <summary>Track List</summary>
 
@@ -46,11 +46,12 @@ Adult Swim curates and released free music for over a decade though *Adult Swim 
 
 </details>
 
-[Stream](https://www.adultswim.com/music/singles-2011)
+[Stream - Adult Swim Singles 2011](https://www.adultswim.com/music/singles-2011)<br />
+[2011 Website (Requires Adobe Flash)](http://web.archive.org/web/20131101174849/http://video.adultswim.com/promotions/201106_kiasingles/index.html)
 
 <br />
 
-## <img src="https://i.imgur.com/VHYKIpH.jpg" height=180><br />2012
+## <img src="https://i.imgur.com/VHYKIpH.jpg" height=180><img src="https://i.imgur.com/3F9JBRQ.png" height=180><br />2012
 <details>
 <summary>Track List</summary>
 
@@ -72,11 +73,11 @@ Adult Swim curates and released free music for over a decade though *Adult Swim 
 
 </details>
 
-[Stream](https://www.adultswim.com/music/singles-2012)
+[Stream - Adult Swim Singles 2012](https://www.adultswim.com/music/singles-2012)
 
 <br />
 
-## <img src="https://img.discogs.com/88hZY-p7rFLT3K0xMsi6Vg0ciN4=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5957796-1436142304-4372.jpeg.jpg" height=180><br />2013
+## <img src="https://img.discogs.com/88hZY-p7rFLT3K0xMsi6Vg0ciN4=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5957796-1436142304-4372.jpeg.jpg" height=180><img src="https://i.imgur.com/fw5NQPy.png" height=180><br />2013
 <details>
 <summary>Track List</summary>
 
@@ -100,11 +101,12 @@ Adult Swim curates and released free music for over a decade though *Adult Swim 
 
 </details>
 
-[Stream](https://www.adultswim.com/music/singles-2013)
+[Stream - Adult Swim Singles 2013](https://www.adultswim.com/music/singles-2013)<br />
+[2013 Website](http://web.archive.org/web/20141105231834/http://www.adultswim.com/music/singles-2013/)
 
 <br />
 
-## <img src="https://i1.sndcdn.com/artworks-000082564104-cf6ohl-t500x500.jpg" height=180><br />2014
+## <img src="https://i1.sndcdn.com/artworks-000082564104-cf6ohl-t500x500.jpg" height=180><img src="https://i.imgur.com/sutNAEW.png" height=180><br />2014
 <details>
 <summary>Track List</summary>
 
@@ -129,11 +131,12 @@ Adult Swim curates and released free music for over a decade though *Adult Swim 
 
 </details>
 
-[Stream](https://www.adultswim.com/music/singles-2014)
+[Stream - Adult Swim Singles 2014](https://www.adultswim.com/music/singles-2014)<br />
+[2014 Website](http://web.archive.org/web/20150701200920/http://www.adultswim.com/music/singles-2014/)
 
 <br />
 
-## <img src="https://i.cdn.turner.com/adultswim/big/img/2015/06/08/Singles2015_MusicPage_Thumbnail.jpg" height=180><br />2015
+## <img src="https://i.cdn.turner.com/adultswim/big/img/2015/06/08/Singles2015_MusicPage_Thumbnail.jpg" height=180><img src="https://images.fastcompany.net/image/upload/fc/3060053-inline-i-1-2015-as-mp.png" height=180><br />2015
 <details>
 <summary>Track List</summary>
 
@@ -165,11 +168,10 @@ Bonus Tracks
 
 </details>
 
-[Stream (Broken Page)](https://www.adultswim.com/music/singles-2015)
-
+[Stream - Adult Swim Singles 2015 (Broken)](https://www.adultswim.com/music/singles-2015)
 <br />
 
-## <img src="https://i.cdn.turner.com/adultswim/big/img/2016/05/23/Singles2016_MusicPage_Thumbnail.jpg" height=180><br />2016
+## <img src="https://i.cdn.turner.com/adultswim/big/img/2016/05/23/Singles2016_MusicPage_Thumbnail.jpg" height=180><img src="https://i.imgur.com/8XhOeND.png" height=180><br />2016
 <details>
 <summary>Track List</summary>
 
@@ -209,12 +211,12 @@ Bonus Tracks
 
 </details>
 
-[Stream](https://www.adultswim.com/music/singles-2016)
+[Stream - Adult Swim Singles 2016](https://www.adultswim.com/music/singles-2016)
 
 <br />
 <!-- https://web.archive.org/web/20171012143041if_/http://i.cdn.turner.com/adultswim/big/img/2017/08/03/Singles_MusicPage_Thumbnail.jpg -->
 
-## <img src="https://i.imgur.com/L7FroyV.jpg" height=180><img src="https://i.imgur.com/ZUUM7Qh.jpg" height=180><br />2017-2018
+## <img src="https://i.imgur.com/L7FroyV.jpg" height=180><img src="https://i.imgur.com/ZUUM7Qh.jpg" height=180><img src="https://i.imgur.com/B8adsis.png" height=180><br />2017-2018
 <details>
 <summary>Track List</summary>
 
@@ -285,11 +287,11 @@ Bonus Tracks
 
 </details>
 
-[Stream Adult Swim Singles 2017-2018](https://www.adultswim.com/music/singles-2017)
+[Stream - Adult Swim Singles 2017-2018](https://www.adultswim.com/music/singles-2017)
 
 <br />
 
-## <img src="https://i.cdn.turner.com/adultswim/big/img/2018/09/19/Singles_MusicPage_Thumbnail_1.jpg" height=180><br />2018-2019
+## <img src="https://i.cdn.turner.com/adultswim/big/img/2018/09/19/Singles_MusicPage_Thumbnail_1.jpg" height=180><img src="https://i.imgur.com/4iHCQXf.png" height=180><br />2018-2019
 <details>
 <summary>Track List</summary>
 
@@ -350,11 +352,11 @@ Bonus Tracks
 
 </details>
 
-[Stream Adult Swim Singles 2018-2019](https://www.adultswim.com/music/singles-2018)
+[Stream - Adult Swim Singles 2018-2019](https://www.adultswim.com/music/singles-2018)
 
 <br />
 
-## <img src="https://media.cdn.adultswim.com/uploads/20200522/20522168569-AS_Singles2020_MusicPage_Thumbnail.jpg" height=180><br />2019-2020
+## <img src="https://media.cdn.adultswim.com/uploads/20200522/20522168569-AS_Singles2020_MusicPage_Thumbnail.jpg" height=180><img src="https://i.imgur.com/3F9JBRQ.png" height=180><br />2019-2020
 <details>
 <summary>Track List</summary>
 
@@ -406,11 +408,11 @@ Bonus Tracks
 
 </details>
 
-[Stream Adult Swim Singles 2019-2020](https://www.adultswim.com/music/singles-2019)
+[Stream - Adult Swim Singles 2019-2020 (Broken)](https://www.adultswim.com/music/singles-2019)
 
 <br />
 
-## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=180><br />2021
+## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=180><img src="https://i.imgur.com/V3ismdY.png" height=180><br />2021
 <details>
 <summary>Track List</summary>
 
@@ -455,4 +457,4 @@ Bonus Tracks
 
 </details>
 
-[Stream Adult Swim Singles 2021](https://www.adultswim.com/music/singles-2021)
+[Stream - Adult Swim Singles 2021](https://www.adultswim.com/music/singles-2021)
