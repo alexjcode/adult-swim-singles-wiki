@@ -1,6 +1,6 @@
 # The Adult Swim Singles Program (2010-2021)
 
-Adult Swim curates and releases free music every year though their *Adult Swim Singles Program* and Williams Street Records. Each year of free music is confined to its own web page with colorful psychedelic animations, but it can be a bit cumbersome to scroll through each one and look at them all as a whole. This page indexes every song released as an Adult Swim Single since 2010.
+Adult Swim curates and released free music for over a decade though *Adult Swim Singles* and Williams Street Records. Each year of free music was confined to its own web page with colorful psychedelic animations, but it can be a bit cumbersome to scroll through each one for track info. This page indexes every song released as an Adult Swim Single since 2010.
 
 <br />
 
@@ -214,7 +214,7 @@ Bonus Tracks
 <br />
 <!-- https://web.archive.org/web/20171012143041if_/http://i.cdn.turner.com/adultswim/big/img/2017/08/03/Singles_MusicPage_Thumbnail.jpg -->
 
-## <img src="https://i.imgur.com/L7FroyV.jpg" height=180><br />2017
+## <img src="https://i.imgur.com/L7FroyV.jpg" height=180><img src="https://i.imgur.com/ZUUM7Qh.jpg" height=180><br />2017-2018
 <details>
 <summary>Track List</summary>
 
