@@ -176,7 +176,7 @@ Bonus Tracks
 \# | Track | Artist | Duration | Link
 ------------ | ------------- | ------------- | ------------- | -------------
 1 | Dose | DJ Paypal feat. DJ Earl + DJ Taye | 4:33 | --
-2 | Dispatch | VHÖL  | 5:37 | --
+2 | Dispatch | VHÖL | 5:37 | --
 3 | Serpentine Fire | D∆WN | 2:10 | --
 4 | Mirage Trooper | Clark | 6:58 | --
 5 | Short Life | Sannhet | 4:11 | --
@@ -184,7 +184,7 @@ Bonus Tracks
 7 | Wait (ft. Keaton Henson & Mitski) | Ryan Hemsworth | 3:25 | --
 8 | Flora's Theme | Elysia Crampton | 2:19 | --
 9 | D7-D5 | Blanck Mass | 8:00 | --
-10 | Downtown  | JLIN | 4:25 | --
+10 | Downtown | JLIN | 4:25 | --
 11 | Born To Be Wine | Protomartyr | 4:06 | --
 12 | Haunting, Haunted, Haunts | Against Me! | 2:25 | --
 13 | Balance | Earl Sweatshirt ft. Knxwledge | 1:54 | --
@@ -410,7 +410,7 @@ Bonus Tracks
 
 <br />
 
-## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=180><br />2021 (Ongoing)
+## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=180><br />2021
 <details>
 <summary>Track List</summary>
 
@@ -435,12 +435,23 @@ Bonus Tracks
 17 | miniskirt | CHAI | 2:38 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-17)
 18 | d d don't (premaster) | Kate NV | 3:43 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-18)
 19 | I'm Numbers | Emily Wells | 4:38 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-19)
-20  | Many Masters | Worship | 5:23 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-20)
-21  | Meditation on a Century Plant | Kono Michi | 5:13 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-21)
-22  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-22)
-23  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-23)
-24  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-24)
-25  | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-25)
+20 | Many Masters | Worship | 5:23 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-20)
+21 | Meditation on a Century Plant | Kono Michi | 5:13 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-21)
+22 | NFT | billy woods x The Koreatown Oddity | 2:52 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-22)
+23 | rom com 2021 | Soccer Mommy x Kero Kero Bonito | 3:16 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-23)
+24 | Palava Puu | Oranssi Pazuzu | 8:14 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-24)
+25 | Through Me | Flock of Dimes | 3:59 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-25)
+26 | Silent Fan | Rozi Plain | 4:44 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-26)
+27 | Fully Lost, Fully Found | Yatta Zoker | 3:28 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-27)
+28 | GUNFIRE MEDLEY | LNNCHBXX | 2:48 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-28)
+29 | Loc'd & Ready | Jlin x Fitz Fonzarelli x Cap Productions | 3:51 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-29)
+30 | Loose Your Mind | Dawn | 2:54 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-30)
+31 | AFRO PICK EVE | Moor Mother feat. Beans | 2:39 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-31)
+32 | Open House (The Clearing House) | The Twilite Tone | 3:58 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-32)
+33 | Thumbs Down (Not I) | Backxwash x Dreamcrusher | 1:52 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-33)
+34 | Migration | Tristan Arp | 3:17 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-34)
+35 | Real Breezy | Chromeo | 2:48 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-35)
+36 | This Man's Gift | NOTHING feat. Midwife | 5:53 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-36)
 
 </details>
 
