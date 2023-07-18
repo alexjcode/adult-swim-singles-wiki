@@ -281,10 +281,11 @@ Bonus Tracks
 59 | Leagues Beneath | Sleep | 16:45 | [Stream](https://as-embed-player.adultswim.com/singles/2017/?trackid=8a44692e-8e9e-4869-99d6-0c5f25f25315)
 60 | Gold (Smiff and Cash Remix) ft. Gangsta Boo | Run The Jewels | 4:12 | [Stream](https://as-embed-player.adultswim.com/singles/2017/?trackid=d2e803eb-0543-4bc4-9c76-16bd4d9b9475)
 61 | Hornet's Nest | Power Trip | 4:40 | [Stream](https://as-embed-player.adultswim.com/singles/2017/?trackid=9e5f3857-de95-4859-908f-5105312e4c89)
+62 | Heroes Pt. 5 | Flying Lotus | 2:40 | --
 
 </details>
 
-[Stream Adult Swim Singles 2017](https://www.adultswim.com/music/singles-2017)
+[Stream Adult Swim Singles 2017-2018](https://www.adultswim.com/music/singles-2017)
 
 <br />
 
