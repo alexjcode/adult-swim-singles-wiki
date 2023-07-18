@@ -50,7 +50,7 @@ Adult Swim curates and releases free music every year though their *Adult Swim S
 
 <br />
 
-## <img src="https://i.cdn.turner.com/adultswim/music/tools/img/albums/adult-swim-singles-2012-nospon-album-cover.jpg" height=180><br />2012
+## <img src="https://i.imgur.com/VHYKIpH.jpg" height=180><br />2012
 <details>
 <summary>Track List</summary>
 
