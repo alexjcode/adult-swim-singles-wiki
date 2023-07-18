@@ -1,6 +1,6 @@
 # The Adult Swim Singles Program
 
-Adult Swim curates and released free music for over a decade though *Adult Swim Singles* and Williams Street Records. Each year of free music was confined to its own web page with colorful psychedelic animations, but it can be a bit cumbersome to scroll through each one for track info. This page indexes every song released as an Adult Swim Single since 2010.
+Adult Swim curated and released free music for over a decade though *The Adult Swim Singles Program* and Williams Street Records. Each year of free music was released through its own web page with colorful psychedelic animations, but it could be a bit cumbersome to scroll through each one for track info. This page indexes every song released as an "Adult Swim Single" since 2010.
 
 <br />
 
