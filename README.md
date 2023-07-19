@@ -106,7 +106,7 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 <br />
 
-## <img src="https://i1.sndcdn.com/artworks-000082564104-cf6ohl-t500x500.jpg" height=180><img src="https://i.imgur.com/sutNAEW.png" height=180><br />2014
+## <img src="https://i1.sndcdn.com/artworks-000087520604-goooj5-original.jpg" height=180><img src="https://i.imgur.com/eoeP5NG.png" height=180><br />2014
 <details>
 <summary>Track List</summary>
 
