@@ -24,7 +24,7 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 <br>Curated by: xx
 <br>Art by: xx
-<br>Website Designed by: xx
+<br>Website Design by: xx
 
 [2010 Website (Requires Adobe Flash)](http://web.archive.org/web/20121016022210/http://video.adultswim.com/promotions/201005_kia/index.html)
 
@@ -52,7 +52,7 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 <br>Curated by: xx
 <br>Art by: xx
-<br>Website Designed by: xx
+<br>Website Design by: xx
 
 [Stream - Adult Swim Singles 2011](https://www.adultswim.com/music/singles-2011)<br />
 [2011 Website (Requires Adobe Flash)](http://web.archive.org/web/20131101174849/http://video.adultswim.com/promotions/201106_kiasingles/index.html)
@@ -83,7 +83,7 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 <br>Curated by: xx
 <br>Art by: xx
-<br>Website Designed by: xx
+<br>Website Design by: xx
 
 [Stream - Adult Swim Singles 2012](https://www.adultswim.com/music/singles-2012)
 
@@ -114,8 +114,8 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 </details>
 
 <br>Curated by: xx
-<br>Art by: xx
-<br>Website Designed by: xx
+<br>Art by: Branden Collins, Brian Smith, Candice House, and Jacob Escobedo
+<br>Website Design by: xx
 
 [Stream - Adult Swim Singles 2013](https://www.adultswim.com/music/singles-2013)<br />
 [2013 Website](http://web.archive.org/web/20141105231834/http://www.adultswim.com/music/singles-2013/)
@@ -149,7 +149,7 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 <br>Curated by: xx
 <br>Art by: xx
-<br>Website Designed by: xx
+<br>Website Design by: xx
 
 [Stream - Adult Swim Singles 2014](https://www.adultswim.com/music/singles-2014)<br />
 [2014 Website](http://web.archive.org/web/20150701200920/http://www.adultswim.com/music/singles-2014/)
@@ -189,8 +189,7 @@ Bonus Tracks
 </details>
 
 <br>Curated by: xx
-<br>Art by: xx
-<br>Website Designed by: xx
+<br>Art & Website Design by: The Young Never Sleep
 
 [Stream - Adult Swim Singles 2015 (Broken)](https://www.adultswim.com/music/singles-2015)
 <br />
@@ -236,8 +235,7 @@ Bonus Tracks
 </details>
 
 <br>Curated by: xx
-<br>Art by: xx
-<br>Website Designed by: xx
+<br>Art & Website Design by: Active Theory
 
 [Stream - Adult Swim Singles 2016](https://www.adultswim.com/music/singles-2016)
 
@@ -316,8 +314,7 @@ Bonus Tracks
 </details>
 
 <br>Curated by: xx
-<br>Art by: xx
-<br>Website Designed by: xx
+<br>Art & Website Design by: Active Theory
 
 [Stream - Adult Swim Singles 2017-2018](https://www.adultswim.com/music/singles-2017)
 
@@ -385,8 +382,7 @@ Bonus Tracks
 </details>
 
 <br>Curated by: xx
-<br>Art by: xx
-<br>Website Designed by: xx
+<br>Art & Website Design by: Active Theory
 
 [Stream - Adult Swim Singles 2018-2019 (Broken)](https://www.adultswim.com/music/singles-2018)
 
@@ -446,7 +442,7 @@ Bonus Tracks
 
 <br>Curated by: xx
 <br>Art by: xx
-<br>Website Designed by: xx
+<br>Website Design by: xx
 
 [Stream - Adult Swim Singles 2019-2020 (Broken)](https://www.adultswim.com/music/singles-2019)
 
@@ -499,6 +495,6 @@ Bonus Tracks
 
 <br>Curated by: xx
 <br>Art by: xx
-<br>Website Designed by: xx
+<br>Website Design by: xx
 
 [Stream - Adult Swim Singles 2021](https://www.adultswim.com/music/singles-2021)
