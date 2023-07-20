@@ -26,7 +26,7 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 <br />
 
-## <img src="https://images.genius.com/9c77d3c939364fc140bb6451561913bd.240x240x1.jpg" height=180><img src="https://i.imgur.com/en8GMsi.png" height=180><br />2011
+## <img src="https://images.genius.com/9c77d3c939364fc140bb6451561913bd.240x240x1.jpg" height=180><img src="https://i.imgur.com/en8GMsi.png" height=180><img src="https://i.imgur.com/WWoxlvY.png" height=180><br />2011
 <details>
 <summary>Track List</summary>
 
@@ -51,7 +51,7 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 <br />
 
-## <img src="https://i.imgur.com/VHYKIpH.jpg" height=180><img src="https://i.imgur.com/3F9JBRQ.png" height=180><br />2012
+## <img src="https://i.imgur.com/VHYKIpH.jpg" height=180><img src="https://i.imgur.com/3F9JBRQ.png" height=180><img src="https://i.imgur.com/Krem3Nq.png" height=180><br />2012
 <details>
 <summary>Track List</summary>
 
@@ -171,7 +171,7 @@ Bonus Tracks
 [Stream - Adult Swim Singles 2015 (Broken)](https://www.adultswim.com/music/singles-2015)
 <br />
 
-## <img src="https://i.cdn.turner.com/adultswim/big/img/2016/05/23/Singles2016_MusicPage_Thumbnail.jpg" height=180><img src="https://i.imgur.com/8XhOeND.png" height=180><br />2016
+## <img src="https://i.cdn.turner.com/adultswim/big/img/2016/05/23/Singles2016_MusicPage_Thumbnail.jpg" height=180><img src="https://i.imgur.com/8XhOeND.png" height=180><img src="https://i.imgur.com/k6ygs5t.png" height=180><br />2016
 <details>
 <summary>Track List</summary>
 
@@ -216,7 +216,7 @@ Bonus Tracks
 <br />
 <!-- https://web.archive.org/web/20171012143041if_/http://i.cdn.turner.com/adultswim/big/img/2017/08/03/Singles_MusicPage_Thumbnail.jpg -->
 
-## <img src="https://i.imgur.com/L7FroyV.jpg" height=180><img src="https://i.imgur.com/ZUUM7Qh.jpg" height=180><img src="https://i.imgur.com/B8adsis.png" height=180><br />2017-2018
+## <img src="https://i.imgur.com/L7FroyV.jpg" height=180><img src="https://i.imgur.com/ZUUM7Qh.jpg" height=180><img src="https://i.imgur.com/B8adsis.png" height=180><img src="https://i.imgur.com/KEJkrLF.png" height=180><br />2017-2018
 <details>
 <summary>Track List</summary>
 
@@ -412,7 +412,7 @@ Bonus Tracks
 
 <br />
 
-## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=180><img src="https://i.imgur.com/V3ismdY.png" height=180><br />2021
+## <img src="https://media.cdn.adultswim.com/uploads/20210415/2141595709-AS_Singles2021_Keyart.png" height=180><img src="https://i.imgur.com/V3ismdY.png" height=180><img src="https://i.imgur.com/MITTJ6j.png" height=180><br />2021
 <details>
 <summary>Track List</summary>
 
