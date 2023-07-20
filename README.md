@@ -189,6 +189,7 @@ Bonus Tracks
 </details>
 Curated by: xx
 <br>Art & Website Design by: The Young Never Sleep
+<br>Promos Animated by: [Stephanie Swart](http://stephanieswart.com/adult-swim-singles) & Ana Kim of [Slanted Studios](https://www.behance.net/gallery/55163469/Adult-Swim-Singles-2015)
 <br><br>
 
 [Stream - Adult Swim Singles 2015 (Broken)](https://www.adultswim.com/music/singles-2015)
