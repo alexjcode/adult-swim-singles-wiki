@@ -352,7 +352,7 @@ Bonus Tracks
 
 </details>
 
-[Stream - Adult Swim Singles 2018-2019](https://www.adultswim.com/music/singles-2018)
+[Stream - Adult Swim Singles 2018-2019 (Broken)](https://www.adultswim.com/music/singles-2018)
 
 <br />
 
