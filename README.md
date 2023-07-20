@@ -150,7 +150,7 @@ Curated by:
 <br>Art by: <a href="https://www.booooooom.com/2014/09/26/adult-swim-singles-2/">Jacob Escobedo (1,3), Trey Wadsworth (5), Petrika Jansen (7), Brandon Lively (8), Branden Collins (9), Tyson Mcadoo (10)</a>
 <br>Website Design by:
 <br>Promos by:
-<br>Voice Over: Jason Demarco
+<br>Voice Over: Jason DeMarco
 <br><br>
 
 [Stream - Adult Swim Singles 2014](https://www.adultswim.com/music/singles-2014)<br />
@@ -192,7 +192,7 @@ Bonus Tracks
 Curated by:
 <br>Art & Website Design by: <a href="https://theyoungneversleep.org/Adult-Swim-Singles-2015">The Young Never Sleep</a>
 <br>Promos Animated by: <a href="http://stephanieswart.com/adult-swim-singles">Stephanie Swart</a> & Ana Kim for <a href="https://www.behance.net/gallery/55163469/Adult-Swim-Singles-2015">Slanted Studios</a>
-<br>Voice Over: Jason Demarco
+<br>Voice Over: Jason DeMarco
 <br><br>
 
 [Stream - Adult Swim Singles 2015 (Broken)](https://www.adultswim.com/music/singles-2015)
