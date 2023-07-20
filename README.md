@@ -22,6 +22,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 </details>
 
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
+
 [2010 Website (Requires Adobe Flash)](http://web.archive.org/web/20121016022210/http://video.adultswim.com/promotions/201005_kia/index.html)
 
 <br />
@@ -45,6 +49,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 11 | On The Run | Cerebral Ballzy | 2:03 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2011&track=track-11)
 
 </details>
+
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
 
 [Stream - Adult Swim Singles 2011](https://www.adultswim.com/music/singles-2011)<br />
 [2011 Website (Requires Adobe Flash)](http://web.archive.org/web/20131101174849/http://video.adultswim.com/promotions/201106_kiasingles/index.html)
@@ -73,6 +81,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 
 </details>
 
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
+
 [Stream - Adult Swim Singles 2012](https://www.adultswim.com/music/singles-2012)
 
 <br />
@@ -100,6 +112,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 15 | Long Pinky | Beautiful Lou feat. Action Bronson & RIFF RAFF | 2:51 | --
 
 </details>
+
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
 
 [Stream - Adult Swim Singles 2013](https://www.adultswim.com/music/singles-2013)<br />
 [2013 Website](http://web.archive.org/web/20141105231834/http://www.adultswim.com/music/singles-2013/)
@@ -130,6 +146,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 16 | Lost Prophet Report | Ka | 3:04 | --
 
 </details>
+
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
 
 [Stream - Adult Swim Singles 2014](https://www.adultswim.com/music/singles-2014)<br />
 [2014 Website](http://web.archive.org/web/20150701200920/http://www.adultswim.com/music/singles-2014/)
@@ -167,6 +187,10 @@ Bonus Tracks
 4 | Get So Low | Dasher | 4:07 | --
 
 </details>
+
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
 
 [Stream - Adult Swim Singles 2015 (Broken)](https://www.adultswim.com/music/singles-2015)
 <br />
@@ -210,6 +234,10 @@ Bonus Tracks
 31 | Therapy | Masta Killa feat. Method Man & Redman | 3:04 | --
 
 </details>
+
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
 
 [Stream - Adult Swim Singles 2016](https://www.adultswim.com/music/singles-2016)
 
@@ -287,6 +315,10 @@ Bonus Tracks
 
 </details>
 
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
+
 [Stream - Adult Swim Singles 2017-2018](https://www.adultswim.com/music/singles-2017)
 
 <br />
@@ -352,6 +384,10 @@ Bonus Tracks
 
 </details>
 
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
+
 [Stream - Adult Swim Singles 2018-2019 (Broken)](https://www.adultswim.com/music/singles-2018)
 
 <br />
@@ -408,6 +444,10 @@ Bonus Tracks
 
 </details>
 
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
+
 [Stream - Adult Swim Singles 2019-2020 (Broken)](https://www.adultswim.com/music/singles-2019)
 
 <br />
@@ -456,5 +496,9 @@ Bonus Tracks
 36 | This Man's Gift | NOTHING feat. Midwife | 5:53 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-36)
 
 </details>
+
+<br>Curated by: xx
+<br>Art by: xx
+<br>Website Designed by: xx
 
 [Stream - Adult Swim Singles 2021](https://www.adultswim.com/music/singles-2021)
