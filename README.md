@@ -21,10 +21,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 9 | On One | Freddie Gibbs | 2:34 | 
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art by: xx
 <br>Website Design by: xx
+<br><br>
 
 [2010 Website (Requires Adobe Flash)](http://web.archive.org/web/20121016022210/http://video.adultswim.com/promotions/201005_kia/index.html)
 
@@ -49,10 +49,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 11 | On The Run | Cerebral Ballzy | 2:03 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2011&track=track-11)
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art by: xx
 <br>Website Design by: xx
+<br><br>
 
 [Stream - Adult Swim Singles 2011](https://www.adultswim.com/music/singles-2011)<br />
 [2011 Website (Requires Adobe Flash)](http://web.archive.org/web/20131101174849/http://video.adultswim.com/promotions/201106_kiasingles/index.html)
@@ -80,10 +80,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 13 | @deathgripz | Death Grips | 4:25 | [Stream](https://as-embed-player.adultswim.com?album=singles_2012&track=track-13)
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art by: xx
 <br>Website Design by: xx
+<br><br>
 
 [Stream - Adult Swim Singles 2012](https://www.adultswim.com/music/singles-2012)
 
@@ -112,10 +112,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 15 | Long Pinky | Beautiful Lou feat. Action Bronson & RIFF RAFF | 2:51 | --
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art by: Branden Collins, Brian Smith, Candice House, and Jacob Escobedo
 <br>Website Design by: xx
+<br><br>
 
 [Stream - Adult Swim Singles 2013](https://www.adultswim.com/music/singles-2013)<br />
 [2013 Website](http://web.archive.org/web/20141105231834/http://www.adultswim.com/music/singles-2013/)
@@ -146,10 +146,10 @@ Adult Swim curated and released free music for over a decade though *The Adult S
 16 | Lost Prophet Report | Ka | 3:04 | --
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art by: xx
 <br>Website Design by: xx
+<br><br>
 
 [Stream - Adult Swim Singles 2014](https://www.adultswim.com/music/singles-2014)<br />
 [2014 Website](http://web.archive.org/web/20150701200920/http://www.adultswim.com/music/singles-2014/)
@@ -187,9 +187,9 @@ Bonus Tracks
 4 | Get So Low | Dasher | 4:07 | --
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art & Website Design by: The Young Never Sleep
+<br><br>
 
 [Stream - Adult Swim Singles 2015 (Broken)](https://www.adultswim.com/music/singles-2015)
 <br />
@@ -233,9 +233,9 @@ Bonus Tracks
 31 | Therapy | Masta Killa feat. Method Man & Redman | 3:04 | --
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art & Website Design by: Active Theory
+<br><br>
 
 [Stream - Adult Swim Singles 2016](https://www.adultswim.com/music/singles-2016)
 
@@ -312,9 +312,9 @@ Bonus Tracks
 62 | Heroes Pt. 5 | Flying Lotus | 2:40 | [Stream](https://as-embed-player.adultswim.com/singles/2017/?trackid=2efa85f4-64d2-4443-b712-a4e321a2380c)
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art & Website Design by: Active Theory
+<br><br>
 
 [Stream - Adult Swim Singles 2017-2018](https://www.adultswim.com/music/singles-2017)
 
@@ -380,9 +380,9 @@ Bonus Tracks
 52 | The Next Day | Freddie Gibbs & Madlib ft. Oh No (prod. by Professionals) | 2:43 | [Stream](https://as-embed-player.adultswim.com/singles/2018/?trackid=track-52)
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art & Website Design by: Active Theory
+<br><br>
 
 [Stream - Adult Swim Singles 2018-2019 (Broken)](https://www.adultswim.com/music/singles-2018)
 
@@ -439,10 +439,10 @@ Bonus Tracks
 43 | Stereo Nucleosis | Red Fang | 3:00 | [Stream](https://as-embed-player.adultswim.com/singles/2019/?trackid=43)
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art by: xx
 <br>Website Design by: xx
+<br><br>
 
 [Stream - Adult Swim Singles 2019-2020 (Broken)](https://www.adultswim.com/music/singles-2019)
 
@@ -492,9 +492,9 @@ Bonus Tracks
 36 | This Man's Gift | NOTHING feat. Midwife | 5:53 | [Stream](https://as-embed-player.adultswim.com/?album=singles_2021&track=track-36)
 
 </details>
-
-<br>Curated by: xx
+Curated by: xx
 <br>Art by: xx
 <br>Website Design by: xx
+<br><br>
 
 [Stream - Adult Swim Singles 2021](https://www.adultswim.com/music/singles-2021)
