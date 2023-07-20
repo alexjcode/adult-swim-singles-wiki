@@ -188,8 +188,8 @@ Bonus Tracks
 
 </details>
 Curated by: xx
-<br>Art & Website Design by: The Young Never Sleep
-<br>Promos Animated by: [Stephanie Swart](http://stephanieswart.com/adult-swim-singles) & Ana Kim of [Slanted Studios](https://www.behance.net/gallery/55163469/Adult-Swim-Singles-2015)
+<br>Art & Website Design by: <a href="https://theyoungneversleep.org/Adult-Swim-Singles-2015">The Young Never Sleep</a>
+<br>Promos Animated by: <a href="http://stephanieswart.com/adult-swim-singles">Stephanie Swart</a> & Ana Kim of <a href="https://www.behance.net/gallery/55163469/Adult-Swim-Singles-2015">Slanted Studios</a>
 <br><br>
 
 [Stream - Adult Swim Singles 2015 (Broken)](https://www.adultswim.com/music/singles-2015)
@@ -236,7 +236,7 @@ Curated by: xx
 
 </details>
 Curated by: xx
-<br>Art & Website Design by: Active Theory
+<br>Art & Website Design by: <a href="">Active Theory</a>
 <br><br>
 
 [Stream - Adult Swim Singles 2016](https://www.adultswim.com/music/singles-2016)
@@ -315,7 +315,7 @@ Curated by: xx
 
 </details>
 Curated by: xx
-<br>Art & Website Design by: Active Theory
+<br>Art & Website Design by: <a href="">Active Theory</a>
 <br><br>
 
 [Stream - Adult Swim Singles 2017-2018](https://www.adultswim.com/music/singles-2017)
@@ -383,7 +383,7 @@ Curated by: xx
 
 </details>
 Curated by: xx
-<br>Art & Website Design by: Active Theory
+<br>Art & Website Design by: <a href="https://medium.com/active-theory/adult-swim-singles-2018-case-study-e19349ecbfb3">Active Theory</a>
 <br><br>
 
 [Stream - Adult Swim Singles 2018-2019 (Broken)](https://www.adultswim.com/music/singles-2018)
