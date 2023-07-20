@@ -147,7 +147,7 @@ Curated by: xx
 
 </details>
 Curated by: xx
-<br>Art by: xx
+<br>Art by: Jacob Escobedo (1,3), Trey Wadsworth (5), Petrika Jansen (7), Brandon Lively (8), Branden Collins (9), Tyson Mcadoo (10)
 <br>Website Design by: xx
 <br><br>
 
