@@ -504,7 +504,7 @@ Curated by:
 Curated by:
 <br>Art by:
 <br>Website Design by:
-<br>Promos by: Min Liu
+<br>Promos by: <a href="https://www.min-liu.com/adult-swim-singles-program-2021">Min Liu</a>
 <br>Voice Over: Steve Blum
 <br><br>
 
