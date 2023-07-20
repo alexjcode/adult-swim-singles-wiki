@@ -356,7 +356,7 @@ Bonus Tracks
 
 <br />
 
-## <img src="https://media.cdn.adultswim.com/uploads/20200522/20522168569-AS_Singles2020_MusicPage_Thumbnail.jpg" height=180><img src="https://i.imgur.com/KwcTtWN.png" height=180><br />2019-2020
+## <img src="https://media.cdn.adultswim.com/uploads/20200522/20522168569-AS_Singles2020_MusicPage_Thumbnail.jpg" height=180><img src="https://i.imgur.com/2HbTsGa.png" height=180><br />2019-2020
 <details>
 <summary>Track List</summary>
 
